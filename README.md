@@ -23,8 +23,9 @@ The dashboard focuses on **sales performance, customer preferences, payment tren
 - **Business Intelligence** → Converting raw data into meaningful insights
 - ----
 
-## Dashboard Images 
-- [!Food_Delivery_page]
+## Dashboard Images
+- [!Food_Delivery_page](https://github.com/devendrapratapsinghsolanki/Omato-Food-Delivery-Dashboard/blob/39264a34241dd982e8f0877b7f1bc4d156214936/Food_Delivery_page.png)
+- [!Status_Page](https://github.com/devendrapratapsinghsolanki/Omato-Food-Delivery-Dashboard/blob/39264a34241dd982e8f0877b7f1bc4d156214936/Status_Page.png)
 
 
 ## 🙌 About the Creator
