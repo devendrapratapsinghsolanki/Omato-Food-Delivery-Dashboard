@@ -33,7 +33,7 @@ The dashboard focuses on **sales performance, customer preferences, payment tren
 Final Year B.Tech (Computer Science) | Data Analytics Enthusiast | Power BI Learner  
 
 I’m passionate about **data visualization, analytics, and BI tools**.  
-Feel free to connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/devendra-pratap-singh-solanki-05b9932a7/) and share your feedback on this project!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/devendra-pratap-singh-solanki-05b9932a7/) and share your feedback on this project!  
 
 
 
